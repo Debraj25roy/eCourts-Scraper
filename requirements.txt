@@ -1,2 +1,5 @@
+Flask
+selenium
+webdriver-manager
 requests
 beautifulsoup4
